@@ -1,0 +1,26 @@
+[
+    {
+        "nav_id":"01",
+        "Nav_name":"professional Graphic Design"
+    },
+    {
+        "nav_id":"02",
+        "Nav_name":"MERN Stack Development"
+    },
+    {
+        "nav_id":"03",
+        "Nav_name":"App Development"
+    },
+    {
+        "nav_id":"04",
+        "Nav_name":"Python With Django"
+    },
+    {
+        "nav_id":"05",
+        "Nav_name":"Cyber Security"
+    },
+    {
+        "nav_id":"06",
+        "Nav_name":"Amazon Web Service"
+    }
+]

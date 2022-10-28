@@ -4,41 +4,52 @@
         "Nav_name":"professional Graphic Design",
         "id":"01111",
         "name":"professional Graphic Design",
-        "img":"https://www.creativeitinstitute.com/images/course/course_1665409737.jpg"
+        "img":"https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
+        "details":"Graphic Design is all around us! Words and pictures—the building blocks of graphic design—are the elements that carry the majority of the content in both the digital world and the printed world. As graphic design becomes more visible and prevalent in our lives, graphic design as a practice becomes more important in our culture.Through visual examples, this course will teach you the fundamental principles of graphic design: image making, typography, composition, working with colour and shape... foundational skills that are common in all areas of graphic design practice. I don't just want you to watch a video of someone talking about design, I want you to MAKE design! If you want to be a designer you have to be a maker and a communicator, so this course will offer you lots of opportunities to get your hands dirty with exercises and with more practical projects.At the end of this course you will have learned how to explore and investigate visual representation through a range of image-making techniques; understand basic principles of working with shape, colour and pattern; been exposed to the language and skills of typography; and understand and have applied the principles of composition and visual contrast. If you complete the course, along with its optional (but highly recommended) briefs, you will have a core set of graphic design skills that you can apply to your own projects, or to more deeply investigate a specialised area of graphic design.To succeed in this course you will need access to a computer. You can complete this course without one but it will be tougher. Access to, and a beginner's level knowledge of Adobe Creative Suite programs, such as Illustrator, Photoshop and InDesign will help you, especially if you want to complete the optional briefs."
+
     },
     {
         "nav_id":"02",
         "Nav_name":"MERN Stack Development",
         "id":"0222222",
         "name":"MERN Stack Development",
-        "img":"https://www.creativeitinstitute.com/images/course/course_1662791772.jpg"
+        "img":"https://www.creativeitinstitute.com/images/course/course_1662791772.jpg",
+        "details":"MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.js. It is designed to make the development process smoother and easier. In this course you'll learn how to build a full-stack application with the MERN stack. We'll kickoff the course with setup where you'll learn how to set up your initial Node.js and Express server; then set up your Mongo database. We'll then get into endpoints and then learn how create a React front end. Finally you'll learn how to add a form to present data to users."
+        
+        
     },
     {
         "nav_id":"03",
         "Nav_name":"App Development",
         "id":"0333333",
         "name":"App Development",
-        "img":"https://www.creativeitinstitute.com/images/course/course_1663052092.jpg"
+        "img":"https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
+        "details":"Android apps can be written using Kotlin, Java, and C++ languages. The Android SDK tools compile your code along with any data and resource files into an APK or an Android App Bundle. An Android package, which is an archive file with an .apk suffix, contains the contents of an Android app that are required at runtime and it is the file that Android-powered devices use to install the app.An Android App Bundle, which is an archive file with an .aab suffix, contains the contents of an Android app project including some additional metadata that is not required at runtime. An AAB is a publishing format and is not installable on Android devices, it defers APK generation and signing to a later stage. When distributing your app through Google Play for example, Google Play's servers generate optimized APKs that contain only the resources and code that are required by a particular device that is requesting installation of the app.An activity is the entry point for interacting with the user. It represents a single screen with a user interface. For example, an email app might have one activity that shows a list of new emails, another activity to compose an email, and another activity for reading emails. Although the activities work together to form a cohesive user experience in the email app, each one is independent of the others. As such, a different app can start any one of these activities if the email app allows it. For example, a camera app can start the activity in the email app that composes new mail to allow the user to share a picture. An activity facilitates the following key interactions between system and app:"
     },
     {
         "nav_id":"04",
         "Nav_name":"Python With Django",
         "id":"0444444",
         "name":"Python With Django",
-        "img":"https://www.creativeitinstitute.com/images/course/course_1662801340.jpg"
+        "img":"https://www.creativeitinstitute.com/images/course/course_1662801340.jpg",
+        "details":"We believe that with only a small subset of Python knowledge you can start to develop web applications using the Django Framework. Many new developers starting to explore the Django Framework will typically not have any Python experience, this course aims to help you understand the basic Python knowledge needed to start developing Django applications. Even if you simply wanted to learn more about Python, applying Python in a web context using the Django Framework can be a fun way of learning Python. This course is primarily designed for anyone who would like to get started using the Django Framework to develop applications but does not have prior Python programming knowledge. In this course, you will learn the basics of the Python programming language and apply this new knowledge in the context of the Django Framework. By the end of this course, you will be familiar with the underpinning knowledge and skills needed to further your understanding of Python or the Django Framework. This course is designed for beginners of both Python and the Django Framework, no prior knowledge is needed.I hope you enjoy the course and fulfil your learning objective. Don’t forget to visit us on our YouTube Channel, Very Academy, where you can further interact with the community and explore other free supplementary content."
     },
     {
         "nav_id":"05",
         "Nav_name":"Cyber Security",
         "id":"0555555",
         "name":"Cyber Security",
-        "img":"https://www.creativeitinstitute.com/images/course/course_1662805700.jpg"
+        "img":"https://www.creativeitinstitute.com/images/course/course_1662805700.jpg",
+        "details":"There are a growing number of exciting, well-paying jobs in today’s security industry that do not require a traditional college degree.  Forbes estimates that there will be as many as 3.5 million unfilled positions in the industry worldwide by 2021! One position with a severe shortage of skills is as a junior cybersecurity analyst.Throughout this specialization, you will learn concepts around cybersecurity tools and processes, system administration,  operating system and database vulnerabilities, types of cyber attacks and basics of networking. You will also gain knowledge around important topics such as cryptography and digital forensics. The instructors are architects , Security Operation Center (SOC) analysts, and distinguished engineers who work with cybersecurity in their day to day lives at IBM with a worldwide perspective.  They will share their skills which they need to secure IBM and its clients security systems.This specialization will provide you with the basics you need to get started. Throughout this specialization, you will learn concepts around cybersecurity tools and processes, system administration, operating system and database vulnerabilities, types of cyber attacks and basics of networking. You will also gain knowledge around important topics such as cryptography and digital forensics.This specialization is truly an international offering from IBM with experts from the United States, Costa Rica, Canada and Italy. These instructors are architects, Security Operation Center (SOC) analysts, and distinguished engineers who work with cybersecurity in their day to day lives at IBM. They will share their skills which they need to secure IBM and its clients security systems.Learners will apply the skills they acquire to complete assessment exams as well as a project at the end of the four courses within this specialization."
     },
     {
         "nav_id":"06",
         "Nav_name":"Amazon Web Service",
         "id":"0666666",
         "name":"Amazon Web Service",
-        "img":"https://www.creativeitinstitute.com/images/course/course_1663655990.jpg"
+        "img":"https://www.creativeitinstitute.com/images/course/course_1663655990.jpg",
+        "details":"AWS (Amazon Web Services) is a huge player in the cloud computing world, so if you want to become a cloud architect, this Fundamentals of AWS learning path is a great place to start. It's been created especially for beginners and is designed to give you a comprehensive understanding of the foundational services offered by AWS including compute, storage, networking, database, and identity & access management (IAM). As you work your way through these topics, you'll also have the opportunity to put your newly acquired knowledge into practice thanks to our hands-on labs, which allow you to try out AWS services in a live cloud environment.But it's about much more than AWS: this learning path will also introduce you to some core cloud principles like distributed storage, concurrent computing, redundancy, and security, which can be applied to any cloud vendor. At the end of the learning path, you will be presented with a Certificate of Excellence.To get the most from this learning path, make sure you are already familiar with the basics of cloud computing, in particular, infrastructure as a service (IAAS), as well as Microsoft and Linux essentials, including DNS and DHCP, networking essentials, virtualization, and storage. To get the most from this learning path, make sure you are already familiar with the basics of cloud computing, in particular, infrastructure as a service (IAAS), as well as Microsoft and Linux essentials, including DNS and DHCP, networking essentials, virtualization, and storage."
+
     }
+
 ]
